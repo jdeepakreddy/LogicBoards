@@ -2332,7 +2332,7 @@
   )
 
   (module U_MountingHole:MountingHole_2.2mm_M2_DIN965_Pad (layer L1_Sig_Pwr.Cu) (tedit 60E6CE02) (tstamp 61127874)
-    (at 210.9 127.9)
+    (at 210.8 127.8)
     (descr "Mounting Hole 2.2mm, M2, DIN965")
     (tags "mounting hole 2.2mm m2 din965")
     (path /611702DE/61389F3F)
@@ -2353,7 +2353,7 @@
   )
 
   (module U_MountingHole:MountingHole_2.2mm_M2_DIN965_Pad (layer L1_Sig_Pwr.Cu) (tedit 60E6CE02) (tstamp 6112786C)
-    (at 172.1 89.1)
+    (at 172.2 89.2)
     (descr "Mounting Hole 2.2mm, M2, DIN965")
     (tags "mounting hole 2.2mm m2 din965")
     (path /611702DE/61389C57)
