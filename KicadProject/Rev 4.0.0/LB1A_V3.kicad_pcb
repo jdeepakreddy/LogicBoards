@@ -2965,7 +2965,7 @@
   )
 
   (module U_Connector:DF40C100DP04V51 (layer L6_Sig_Pwr.Cu) (tedit 612C7274) (tstamp 611153DB)
-    (at 210.7 112.2 90)
+    (at 210.7 114.6 90)
     (descr "DF40C-100DP-0.4V(51)")
     (tags Connector)
     (path /611702DE/64963D68)
