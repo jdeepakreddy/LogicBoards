@@ -18,7 +18,7 @@
   )
 
   (layers
-    (0 L1_Sig_Pwr.Cu mixed hide)
+    (0 L1_Sig_Pwr.Cu mixed)
     (1 L2_Gnd.Cu power hide)
     (2 L3_Sig_Pwr.Cu mixed)
     (3 L4_Gnd_Sig.Cu mixed)
