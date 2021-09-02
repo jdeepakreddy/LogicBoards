@@ -1,4 +1,4 @@
-update=8/28/2021 10:34:52 AM
+update=9/2/2021 7:48:19 AM
 version=1
 last_client=kicad
 [general]
@@ -12,6 +12,16 @@ NetIExt=net
 version=1
 LibDir=
 [eeschema/libraries]
+[schematic_editor]
+version=1
+PageLayoutDescrFile=C:/Users/deepa/Documents/kicad_library/page_layout/A4_Custom_Sch_Sheet.kicad_wks
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=D:/kicad_library/page_layout/A4_Custom_Sch_Sheet.kicad_wks
@@ -82,7 +92,7 @@ Name=L3_Sig_Pwr.Cu
 Type=2
 Enabled=1
 [pcbnew/Layer.In3.Cu]
-Name=L4_Gnd_Sig.Cu
+Name=L4_Sig_Gnd.Cu
 Type=2
 Enabled=1
 [pcbnew/Layer.In4.Cu]
@@ -258,13 +268,3 @@ uViaDrill=0.1
 dPairWidth=0.1
 dPairGap=0.13
 dPairViaGap=0.25
-[schematic_editor]
-version=1
-PageLayoutDescrFile=C:/Users/deepa/Documents/kicad_library/page_layout/A4_Custom_Sch_Sheet.kicad_wks
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceAjustPassiveValues=0
-LabSize=50
-ERC_TestSimilarLabels=1
