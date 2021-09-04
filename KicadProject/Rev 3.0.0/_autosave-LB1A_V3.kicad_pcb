@@ -21,7 +21,7 @@
     (0 L1_Sig_Pwr.Cu mixed hide)
     (1 L2_Gnd.Cu power hide)
     (2 L3_Sig_Pwr.Cu mixed hide)
-    (3 L4_Gnd_Sig.Cu mixed hide)
+    (3 L4_Gnd_Sig.Cu mixed)
     (4 L5_Gnd_Pwr.Cu power hide)
     (31 L6_Sig_Pwr.Cu mixed)
     (32 B.Adhes user hide)
